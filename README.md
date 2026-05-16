@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 ### 👨🏻‍💻 About me
-I'm a Computer Systems Engineering student focused on web development, educational platforms, and software projects using JavaScript, Node.js, Java, and cloud-based services. I enjoy creating clean user interfaces, solving technical problems, and learning new technologies through real-world projects.
+Computer Systems Engineering student focused on full-stack web development, cloud-based architectures, and software engineering. Experienced in building responsive platforms, automation systems, and scalable applications using JavaScript, Node.js, Java, and modern cloud services.
 
 ### 🛠️ My skills
 <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,nodejs,java,python,git,github,vercel,cloudflare,vscode&perline=12" />
