@@ -4,7 +4,9 @@
 I'm a Computer Systems Engineering student focused on web development, educational platforms, and software projects using JavaScript, Node.js, Java, and cloud-based services. I enjoy creating clean user interfaces, solving technical problems, and learning new technologies through real-world projects.
 
 ### 🛠️ My skills
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,nodejs,java,python,git,github,vercel&perline=10" />
+<img src="### 🛠️ Technologies & Tools
+
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,nodejs,java,python,git,github,vercel,cloudflare,vscode&perline=12" />" />
 
 ---
 
